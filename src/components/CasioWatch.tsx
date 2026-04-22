@@ -188,9 +188,9 @@ export default function CasioWatch() {
           <div className="w-full h-full bg-bezel rounded-[40px] border-4 border-black px-18 py-8 flex flex-col relative overflow-hidden">
             
             {/* Button Help Labels */}
-            <div className="absolute left-6 top-[112px] text-[10px] font-extrabold uppercase text-stone-500">Light</div>
-            <div className="absolute left-6 bottom-[112px] text-[10px] font-extrabold uppercase text-stone-500">Mode</div>
-            <div className="absolute right-6 bottom-[112px] text-[10px] font-extrabold uppercase text-stone-500 text-right">Start·Stop</div>
+            <div className="absolute left-2 top-[112px] text-[10px] font-extrabold uppercase text-stone-500">Light</div>
+            <div className="absolute left-2 bottom-[112px] text-[10px] font-extrabold uppercase text-stone-500">Mode</div>
+            <div className="absolute right-2 bottom-[112px] text-[10px] font-extrabold uppercase text-stone-500 text-right">Start·Stop</div>
 
             {/* Bezel Labels Top */}
             <div className="flex justify-between items-end mb-4 px-2">
